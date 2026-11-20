@@ -1,4 +1,4 @@
-*** Project Overview-***
+* Project Overview-*
 
 Blooming Effects of Flower is a visual effects project that simulates the natural blooming process of a flower through digital animation. The project focuses on recreating how a flower gradually opens from a bud to a fully bloomed state using image processing and animation techniques.
 
